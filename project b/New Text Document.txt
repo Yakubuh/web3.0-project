@@ -1,0 +1,50 @@
+
+ <div class="navbar">
+
+                <div class="part1"> 
+                    <a href="" style="float: left; margin-right: 15em;"><img src="Images/bj2.jpg" alt="Logo" style="width:100px ;height:60px; "></a>
+                </div> 
+
+
+                <div class="part2" style="display: inline-block;">
+                    <a href=".Home.html"  id="color-me">Home</a>
+                    <a href="../Project 12/gallery.html"  id="color-me">Gallery</a>
+                    <a href=""  id="color-me">Vacation Trips</a>
+                    <a href=""  id="color-me">Contact Us</a>
+                    <a href=""  id="color-me">About Us</a>
+                </div>
+
+                <div class="part3" style="display: inline-block;">
+                    <a href="project b/login.html" id="color-me">Login</a>
+                    <a href="" id="color-me">Sign Up</a>
+                </div>
+
+
+
+            </div>
+
+
+.part1{
+    margin: 1em;
+
+}
+
+.part2{
+    margin-top: 1.5em;
+    float: left;
+    margin-right: 7em;
+    
+}
+
+
+#color-me{
+    color: rgb(222, 152, 21);
+    font-weight:bold ;
+    margin-right: 2em;
+
+}
+
+.part3{
+    margin-top: 1.5em;
+    margin-left: 6em;
+}
